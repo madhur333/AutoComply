@@ -1,0 +1,985 @@
+﻿​This Privacy Policy was last modified and is effective as of December 01, 2025.​
+
+​California Notice at Collection:​​If you are a California​​resident, see the ​​California Privacy Rights​
+​Statement​​ section below for important information​​about your rights under California law.  If you are​
+​located in the European Economic Area, UK, or Switzerland, please also see the ​​Supplemental European​
+​Privacy Statement​​ below.​
+
+​Your  privacy is important to Rubrik, Inc., its affiliates, including Rubrik International, Inc., and any newly​
+​acquired companies, including Predibase LLC (Predibase), 3495 Deer Creek Road, Palo Alto CA, 94304​
+​(“Rubrik”, “we” or “us”). ​
+
+​In this Privacy Policy, we provide information about how we process personal information that we collect​
+​through our digital or online properties or services that link to this Privacy Policy (including, as​
+​applicable, our websites, applications, social media pages, marketing activities, live events, visiting our​
+​facilities, and other activities described in this Privacy Policy) (collectively, the “Online Services”).  ​
+
+​We provide a cybersecurity monitoring solution to our business customers. Through Predibase, we also​
+​offer advanced machine learning AI products and services designed for developers to build and deploy​
+​production-grade machine learning models.  Both our cybersecurity and machine learning offerings, and​
+​the data processing associated with them, are covered by this Privacy Policy. Our use of information that​
+​we process on behalf of our business customers may be governed by our agreements with such​
+​customers.  If you have questions or concerns regarding your personal information that we process on​
+​behalf of a business customer (including to exercise any rights you may have with respect to such​
+​information), please direct your concerns to that business customer.​
+
+​Our websites, products and services are designed and intended for businesses and their representatives. ​
+​We do not offer products or services for use by individuals for their personal, family or household​
+​purposes.  Accordingly, we treat all personal information we collect as pertaining to individuals in their​
+​capacities as representatives of the relevant business and not their individual capacities.​
+
+​You can download a printable copy of this Privacy Policy ​h​ ere​​.​
+
+​What Personal Information Do We Collect?​
+
+​We collect various categories of personal information to provide you with the Online Services, as follows:​
+
+​●​ ​Contact and Request Information:​​We collect personal​​information that allows us to be in​
+​contact with you (such as name, email address, phone number and address) and other personal​
+​information that you voluntarily provide to us when you contact us via our Online Services or​
+​chat features with a question, register for an event, comment or request in relation to our​
+​products and services.​
+
+​●​ ​Account Information:​​If you create an account on one​​of our Online Services, we collect your​
+​company, user identifier and password. We also collect information about your usage of our​
+​Online Services in association with your account, namely, your account preferences, which​
+​features of the Online Services you use and for how long, and any requests or orders made via​
+​your account.​
+
+
+
+​●​ ​Website Information and Mobile Information:​​When you access our websites, we automatically​
+​collect your computer or other device’s internet protocol (IP) address and other technical​
+​information about your computer or other device and website usage, namely, your browser type​
+​and version, internet service provider domain, time zone setting, referring/exit pages, operating​
+​system, date/time stamps and/or clickstream data. We also use cookies and other tracking​
+​technologies, including chat technologies, on our websites; for more information, please see the​
+​Cookies and Other Technologies Information section below.  We may link any of the information​
+​noted here to information that you directly submit while on our website or information we​
+​receive from third parties which would in turn allow individuals and their website actions to be​
+​personally identifiable and stored within our customer relationship database to help provide​
+​personalized services and help with sales planning, forecasting and outreach.​
+
+​●​ ​Public Information about You:​​If you have identified​​yourself to us as a user of our Online​
+​Services, expressed interest in our products or services, or may have an interest in our products​
+​or services,. we may collect personal information from publicly available sources, such as social​
+​media, public directories etc. We also use third-party search, data enrichment and prospecting​
+​information providers to find business contact information about potential business customers​
+​who may be interested in our services [e.g. LinkedIn Sales Navigator, ZoomInfo, Lusha, 6Sense].​
+
+​●​ ​Audiovisual Information about You:​​Photograph, and​​images/footage captured/recorded on​
+​CCTV or other audio, video and related security/monitoring systems or captured during​
+​marketing/public filming events/sessions (including recording of virtual or live workshops or​
+​other events/sessions).​
+
+​●​ ​Marketing Information​​: Your preferences for receiving​​our marketing communications and​
+​details about your engagement with them.​
+
+​●​ ​Product Usage Data:​​Information about how you interact​​with and configure our machine​
+​learning products, including API Usage, model deployment details and feature utilization.​
+
+​●​ ​Other data not specifically listed here, which we will use as described in this Privacy Policy or as​
+​otherwise disclosed at the time of collection.​
+
+​We may also provide public bulletin boards or forums on our Online Services. Please note that any​
+​personal information you post via these bulletin boards or forums may be accessible to the public.  This​
+​information can be seen, collected, and used by others, including being cached, copied, screen captured,​
+​or stored elsewhere by others (e.g., search engines), and we are not responsible for any such use of this​
+​information.​
+
+​How Do We Use Your Personal Information?​
+
+​We use your personal information to access, analyze, deliver, manage and optimize our products and​
+​services, to administer your choices, for understanding or analyzing website traffic, for personalizing​
+​your website and advertising experiences where applicable and to provide Online Services. In particular,​
+​we may use:​
+
+​●​ ​Personal data collected to access, deliver and manage the services you have licensed or​
+​subscribed to, including setting up user and admin accounts, providing engineering and business​
+​customer support and managing features and functionality of other auxiliary or third party​
+​services.​
+
+
+
+​●​ ​Contact and request information to respond to your comments, questions and requests, and​
+​provide you with any product documentation or whitepapers you request.  As permitted by​
+​applicable law, including with your consent where required, we may use your contact​
+​information to provide you with marketing communications, promotional offers and updates on​
+​new services and benefits. ​
+
+​●​ ​Business contact information to administer or invite you to live events, webinars, conduct sales​
+​planning and outreach that we legitimately believe you would be interested in, or to grant you​
+​access to a physical office or facility. This information is stored within our business customer​
+​relationship marketing databases.  In addition, we may use business contact information or​
+​other information obtained from publicly available sources or databases and third-party data​
+​verification and enrichment providers such as ZoomInfo and Lusha to verify, cleanse, or update​
+​your business contact information to ensure its accuracy.​
+
+​●​ ​Website information and mobile information to monitor the performance of our websites and​
+​mobile applications, analyze trends, usage and activities in connection with our websites, email​
+​marketing activities and mobile applications, and ensure their technological compatibility with​
+​users. This includes use of email marketing platforms, marketing automation platforms, product​
+​analytics platforms, machine learning as well as analytics and measurement tools and services​
+​like Adobe Analytics, MailChimp, Marketo, Meta, Mixpanel, ZoomInfo,​​6Sense​​or other similar​
+​technology or platforms.​
+
+​●​ ​Session replay services provided by third-party partners help us understand how users interact​
+​with our website by creating a replay of your session. We use this data to identify and fix​
+​technical issues, analyze and improve site usability, and optimize our website's performance. Any​
+​sensitive data, such as passwords or payment information, is automatically masked and is not​
+​captured by these services​​.​
+
+​●​ ​Account information to manage your Online Services, account or portal that you have signed up​
+​to, communicate with you in relation to your account, personalize our Online Services for you,​
+​including pre-filling forms where available if you are in our business customer relationship​
+​marketing database and have consented (where applicable) to cookies, provide you with​
+​customer service, product updates and warranty information, and monitor the performance of​
+​our Online Services.​
+
+​●​ ​We may also use website information,mobile information, predictive analytics and information​
+​stored in our customer relationship management database  for targeted advertising purposes​
+​where permitted by applicable law.​
+
+​o​ ​We use third-party advertising partners such as 6Sense, Influ2, Facebook, Microsoft,​
+​Google and LinkedIn who may use cookies and other technologies to collect website​
+​information and mobile information and other information to serve online ads about​
+​Rubrik that we think will interest you. This is called interest-based advertising. We may​
+​also share information about our users with these companies to facilitate behavioral or​
+​targeted  advertising to those or similar users on these or other online platforms.​
+
+​o​ ​We may send you targeted email messages which may include the use of web beacons​
+​so that we can understand if the message was successfully delivered, opened or shared.​
+​When clicking on links in an email, we may record that activity within our email​
+​management software, analytics platforms and customer relationship marketing​
+​databases so that we can understand the performance of these emails as applicable by​
+​law. We may use this information to predict the likelihood of your continued interest in​
+​our products and services, as well as to personalize your website experience, or to show​
+
+
+
+​you more relevant advertisements. For more information, please see the Cookies and​
+​Other Technologies Information section below.​
+
+​●​ ​Public information including but not limited to, your social media handles or social media activity​
+​such as likes or comments if you engage with any of Rubrik’s social media content. We may​
+​combine this with other personal information we may have about you to personalize our Online​
+​Services for you and identify products and services that we believe may be of interest to you or​
+​your business.​
+
+​●​ ​Audiovisual information about you in connection with operating and managing any facilities or​
+​business operations, and hosting or managing any events that we may sponsor or be a​
+​participant.  ​
+
+​●​ ​Marketing and analytics information about you to understand your potential interest in our​
+​services and to send you personalized direct marketing communications based on your needs​
+​and interests.​
+
+​●​ ​Recorded information may be used, including recording phone calls (in accordance with​
+​applicable laws) for training, quality assurance and administrative purposes.  If required by​
+​applicable law, we will give you the option to object to a call being recorded.​
+
+​●​ ​Generative AI (GenAI) models and chatbots to: (i) enhance or improve certain products and​
+​services, such as automated content generation, personalized recommendations, code​
+​development or review, quality assurance, and customer support. This includes leveraging the​
+​capabilities of Predibase’s machine learning technologies to drive innovation within our​
+​offerings. When you provide feedback or interact with our chatbot, we may also use the​
+​transcripts and feedback received to improve our services and processes that utilize these​
+​models; and (ii) to support internal productivity and enhance the quality and efficiency of our​
+​services. These tools may assist with tasks such as content generation, summarization,​
+​translation, marketing automation, and data analysis including for sales and marketing​
+​purposes..​
+
+​o​ ​These GenAI models are designed to generate outputs based on user inputs and relevant​
+​source documents. Specifically, data submitted by customers for processing through​
+​Predibase’s models is handled in accordance with the terms of our agreements with​
+​those customers. We ensure that all data used in feedback processes is handled in​
+​accordance with our privacy policies and applicable regulations.​
+
+​o​ ​We do not use GenAI models to make fully automated decisions that have legal or​
+​similarly significant effects on individuals.​
+
+​●​ ​We also use your personal information as necessary to comply with our legal and contractual​
+​obligations and to protect our legal interests, such as in the event of a complaint or dispute.​
+
+​●​ ​We may create aggregated, de-identified and/or anonymized data from your personal​
+​information and other individuals whose personal information we collect.  We make personal​
+​information into de-identified and/or anonymized data by removing information that makes the​
+​data identifiable to you.  We may use this aggregated, de-identified and/or anonymized data and​
+​share it with third parties for our lawful business purposes, including to analyze and improve the​
+
+
+
+​Online Services and promote our business.  We will not attempt to re-identify any such data,​
+​except as permitted by law.​
+
+​Additionally, in some cases, we may specifically ask for your consent to collect, use, or share your​
+​personal information, such as when required by law.​
+
+​What Personal Information Do We Disclose?​
+
+​Rubrik may disclose your personal information to the following third parties, and as otherwise described​
+​in this Privacy Policy, in other applicable notices, or at the time of collection:​
+
+​●​ ​To Rubrik’s service providers, who act on Rubrik’s behalf and instructions to fulfill product orders,​
+​deliver services, provide IT, website or webinar hosting and customer support (including online​
+​chat functionality and data enrichment or cleansing providers) and security services, and fulfill​
+​the other purposes set forth above.​
+
+​●​ ​To other Rubrik-owned business entities for the purposes of coordinating our global enterprise’s​
+​provision and development of products and services.​
+
+​●​ ​To third-party advertising partners, for the targeted advertising practices, described below.​
+
+​●​ ​To business and marketing partners, such as third parties with whom we co-sponsor events or​
+​promotions, with whom we jointly offer products or services, or whose products or services may​
+​be of interest to you.​
+
+​●​ ​As required by applicable law, including, without limitation, in response to any government or​
+​regulatory agency request, to cooperate with law enforcement investigations, or upon receipt of​
+​any court order.​
+
+​●​ ​To professional advisors, such as lawyers, auditors, bankers, and insurers, where necessary in the​
+​course of the professional services that they render to us.​
+
+​●​ ​To business transferees (e.g., a prospective or actual purchaser or seller in the context of a​
+​merger, acquisition or other reorganization or sale of Rubrik’s business or assets).  Rubrik’s​
+​practice is to seek reasonable protection for information in these types of transactions.  ​
+
+​●​ ​To courts and public authorities to protect you, Rubrik or third parties from harm, including​
+​fraud or instances where somebody’s physical safety is at risk.​
+
+​Service providers acting on Rubrik’s behalf shall be obliged to adhere to confidentiality requirements no​
+​less protective than those set forth herein and will only receive access to your personal information as​
+​necessary to perform their functions.​
+
+​We also perform statistical analyses of the users of our Online Services to improve the content, design​
+​and navigation of the Online Services and our other products and services. In these cases, we use​
+​aggregate or statistical data that cannot reasonably be used to identify you in most cases.  When you​
+​engage with an email or other technology (such as chat features on our site), fill in a form, attend an​
+​event we host or sponsor, we may store this information in our analytics or CRM systems to better​
+​understand your interests in order to provide you with the most relevant communication related to our​
+​products and services.​
+
+​Sources of Personal Information​
+
+
+
+​If Rubrik does not obtain your personal information directly from you, Rubrik may obtain it from the​
+​following sources: publicly available sources (such as public websites, public authorities, the internet,​
+​social media, or registers), Rubrik’s employees or consultants or employers of our consultants, Rubrik’s​
+​affiliates and partners, subsidiaries or newly acquired entities, public authorities, educational​
+​institutions, suppliers and vendors, including any third-party data providers, and when you visit any​
+​Rubrik offices.​
+
+​Rubrik may also receive your business contact data from event partners where Rubrik is actively​
+​sponsoring or attending an event. The information we receive differs by event partner and is based on​
+​their agreements with you when you register to attend their event. Rubrik uses this business contact​
+​data as per contractual agreement with the event partner, or as required by applicable data protection​
+​laws.​
+
+​Your Choices​
+
+​In this section, we describe the rights and choices available to all users.  Users who are located in​
+​California and Europe can find additional information about their rights below.​
+
+​Access or update your information. If you have registered for an account with us through the Online​
+​Services, you may review and update certain account information by logging into the account or by​
+​contacting us. For data related to your use of Predibase services, you may also have specific controls or​
+​dashboards within those services to manage your data, or you can submit a request as described below.​
+
+​Opt-out of communications. If you no longer wish to receive marketing-related communications, you​
+​may opt-out of receiving these emails by clicking “​​Unsubscribe​​” found in emails we send you, or if this​​is​
+​related to Predibase you can contact privacy@predibase.com.   Please note that if you choose to opt-out​
+​of marketing-related emails, you may continue to receive service-related and other non-marketing​
+​emails.  ​
+
+​Advertising choices. You may control or limit use of some of your personal information for targeted​
+​advertising by clicking the Rubrik or Predibase link in the​​Cookies Policy​​to access your cookie settings​​or​
+​by changing your settings on each advertising platform, device, or browser. ​
+
+​Declining to provide information. We need to collect personal information to provide certain services. If​
+​you do not provide the information we identify as required or mandatory, we may not be able to provide​
+​those services.​
+
+​Third-Party Websites​
+
+​Our Online Services may include links to third-party applications, products, services, or websites. If you​
+​access those links, you will leave our Online Services. Rubrik does not control these third-party sites or​
+​their privacy practices, which may differ from Rubrik’s practices. The Rubrik Privacy Policy does not cover​
+​the personal information you choose to provide to or that is collected by these third-parties. You are​
+​encouraged to review the privacy documentation of any third-party site you interact with before you​
+​allow them to collect and use your personal information.​
+
+
+
+​Rubrik may also provide social media features, such as the Facebook, LinkedIn, Vimeo, YouTube or​
+​Twitter buttons that enable you to share information with your social networks to interact with Rubrik​
+​on various social media websites.​
+
+​Your use of these features may result in the collection or sharing of information about you depending on​
+​each specific social media website and  may include collecting your IP address, which page you are​
+​visiting on our site, and a cookie to enable the feature to function properly. Social media features or any​
+​embedded  widgets such as video and podcast players are hosted by a third-party provider (such as​
+​Youtube, Vimeo or Spotify). Your interactions with these social media features, e.g. any videos you​
+​watch, or podcasts you listen to, are governed by the privacy policy of the third-party  providing it. They​
+​may collect data about your viewing or listening history on and off Rubrik’s website, especially if you​
+​have an existing account with that third party provider or have not cleared certain pixels or cookies​
+​before coming to our website. In those cases, they may be able to identify you directly and combine this​
+​data with other information or data they have collected from you during your interactions with that third​
+​party.​
+
+​Persons under the Age of 13​
+
+​We do not knowingly collect personal information from minors under the age of 13. If we learn that we​
+​have collected the personal information of a minor under 13 years old, we will comply with applicable​
+​legal requirements to delete the information.​
+
+​Cookies and Other Technologies​
+
+​Rubrik and our partners (e.g., marketing partners, analytics, advertising, or service providers) use various​
+​tracking technologies such as cookies, web beacons, pixels, tags and scripts alone or in conjunction with​
+​cookies to analyze trends on our Online Services, administer our Online Services, and to gather​
+​firmographic and demographic information about our user base as a whole. This includes technologies​
+​utilized across all Rubrik Online Services, including those operated by Predibase. We receive reports​
+​based on the use of these technologies by these companies on an individual as well as aggregated basis​
+​in most cases. If you provide personal information on our website and accept cookies, Rubrik may​
+​combine this data in our CRM or analytics systems.​
+
+​Please see our​​Cookies Policy​​ for more details including,​​information about your choices with respect to​
+​advertising and social media cookies and for access to our cookie consent manager.  We respond to both​
+​the Do Not Track and the Global Privacy Control signal.​
+
+​We also use chat technologies that employ cookies and software code to operate the chat features that​
+​you can use to communicate with us through the Online Services.  The specific third-party providers may​
+​vary across different Rubrik Online Services, including those offered by Predibase. These providers access​
+​and use information about web pages visited on our website, your IP address, your general geographic​
+​information (e.g., city, state), and other personal information you share through online chats only for the​
+​purposes described in this Privacy Policy.​
+
+​Targeted Advertising Practices​
+
+
+
+​We rely on a third-party services provider to serve and manage our advertising on other sites. These​
+​service providers may use technologies such as cookies and other non-cookie technology to gather​
+​information about your activities on our websites and other sites in order to provide you with advertising​
+​based upon your browsing activities, interests or other information we may provide them. If you wish to​
+​not have this information used for the purpose of serving you interest-based ads, you may opt-out by​
+​clicking ​​here​​ (or if located in the European Union​​click ​​here​​).​
+
+​Please note this does not opt you out of being served ads. You may continue to see more generic ads.​
+
+​Protection of Personal Information​
+
+​Rubrik takes a number of precautions — including administrative, technical, and physical measures —​
+​designed to safeguard your personal information against loss, theft, and misuse, as well as against​
+​unauthorized access, disclosure, alteration, and destruction.  However, security risk is inherent in all​
+​internet and information technologies, and we cannot guarantee the security of your personal​
+​information.​
+
+​Retention of Personal Information​
+
+​We will retain your personal information for the period necessary to fulfill the purposes outlined in this​
+​Privacy Policy and as necessary to comply with our legal obligations, resolve disputes, and enforce our​
+​agreements.​
+
+​Access to Personal Information​
+
+​As described above, you can help ensure that your contact information and preferences are accurate,​
+​complete, and up to date by contacting us using the information below. For other personal information,​
+​to the extent required by applicable data protection law, we make good faith efforts to provide you with​
+​access so you can request that we correct the data if it is inaccurate or delete the data if Rubrik is not​
+​required to retain it by law or for legitimate business purposes. We will respond to your request within​
+​30 days or sooner where required by law. As permitted by applicable law, we may decline to process​
+​requests where the data is required to be retained by law, required for legitimate business purposes, or​
+​jeopardizes the privacy of others.​
+
+​Privacy Policy Updates​
+
+​Rubrik may update its Privacy Policy from time to time to reflect changes to our information practices.​
+​When we change the policy in a material way, we will provide you with notice as required by applicable​
+​law, including notifying you by updating the date of this Privacy Policy and posting it on the Online​
+​Services or other appropriate means.  We encourage you to periodically review this page for the latest​
+​information on our privacy practices.​
+
+​Contacting Us​
+
+​We value your opinions. If you have an unresolved privacy or data use concern that we have not​
+​addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of​
+​charge) at ​​https://feedback-form.truste.com/watchdog/request​​. ​
+
+
+
+​If you have any general questions or comments for Rubrik, please contact us at:​
+​Rubrik, Inc.​
+​3495 Deer Creek Road​
+​Palo Alto, California 94304​
+​USA​
+​Or via e-mail at ​​privacy@rubrik.com​​or via ​​webform​​,​​including if related to Predibase.​
+
+​You can also contact our Data Privacy Officers by emailing​​dpo@rubrik.com​​or via letter, clearly marked​
+​for the attention of the Data Privacy Officer, at 3495 Deer Creek Road, Palo Alto, CA. 94304.​
+
+​California Privacy Rights Statement​
+
+​This section describes how we collect, use and share Personal Information of California residents in our​
+​capacity as a “business” under the California Consumer Privacy Act, as amended by the California Privacy​
+​Rights Act (collectively, “CPRA”) and the rights these users may have with respect to their Personal​
+​Information.  ​
+
+​For purposes of this section, the term “Personal Information” has the meaning given in the CPRA and​
+​does not include information exempted from the scope of the CPRA.  ​
+
+​This section does not apply to our collection, use, and sharing of Personal Information of our job​
+​applicants and employees.  We provide a different privacy notice to such individuals, and that notice​
+​applies to such individuals instead of this section. ​
+
+​Your California privacy rights​.​ California residents​​have the rights listed below.  However, these rights are​
+​not absolute, and in certain cases, we may decline your request as permitted by law. ​
+
+​●​ ​Information​​. You can request the following information​​about how we have collected and used​
+​your Personal Information during the past 12 months:​
+
+​o​ ​The categories of Personal Information that we have collected.​
+
+​o​ ​The categories of sources from which we collected Personal Information.​
+
+​o​ ​The business or commercial purpose for collecting and/or selling Personal Information.​
+
+​o​ ​The categories of third parties with which we share Personal Information.​
+
+​o​ ​The categories of Personal Information that we sold or disclosed for a business purpose.​
+
+​o​ ​The categories of third parties to whom the Personal Information was sold or disclosed​
+​for a business purpose.​
+
+​●​ ​Access​​. You can request a copy of the Personal Information​​that we have collected about you​
+​during the past 12 months. ​
+
+​●​ ​Correction​​. You can ask us to correct inaccurate Personal​​Information that we have collected​
+​about you.​
+
+​●​ ​Deletion​​. You can ask us to delete the Personal Information​​that we have collected from you.​
+
+​●​ ​Opt-out​​.​
+
+
+
+​o​ ​Opt-out of certain processing of Personal Information for targeted advertising​
+​purposes. You can opt-out of certain processing of personal information for targeted​
+​advertising purposes. ​
+
+​o​ ​If you have enabled a legally recognized browser-based opt-out preference signal (such​
+​as Global Privacy Control) on your browser, we recognize such preference in accordance​
+​and to the extent required by applicable law.  You will need to turn this on for each​
+​browser. You can also opt out by engaging with your​​cookies setting​​and turning off​
+​Social Media and Advertising cookies.​
+
+​o​ ​Opt-out of profiling/automated decision making. You can opt-out of automated​
+​processing or profiling performed on personal information to evaluate, analyze, or​
+​predict personal aspects related to a person's economic situation, health, personal​
+​preferences, interests, reliability, behavior, location, or movements. ​
+
+​o​ ​Opt-out of other sales of personal data. You can opt-out of other sales of your Personal​
+​Information.​
+
+​●​ ​Nondiscrimination​​. You are entitled to exercise the​​rights described above free from​
+​discrimination as prohibited by the CPRA.  ​
+
+​Exercising your right to information/know, access, correction, and deletion.​​You may submit requests​
+​to exercise your right to information/know, access, correction, or deletion through our designated​
+​privacy request portal at ​​https://www.rubrik.com/legal/privacy-request​​,​​or via email to​
+​privacy@rubrik.com​​,​​ or if this is related to Predibase​​you can contact​​privacy@predibase.com​​. All such​
+​requests will be processed by Rubrik, including those pertaining to data handled by Predibase, to ensure​
+​a unified and compliant response.​
+
+​Exercising your right to opt-out of the “sale” or “sharing” of your Personal Information​​. Like many​
+​companies, we use services that help deliver targeted ads to you as described above. California law may​
+​classify our use of some of these services as “selling” or “sharing” your Personal Information with the​
+​advertising partners that provide the services.  You can submit requests to opt-out of certain processing​
+​of Personal Information for targeted advertising purposes or other sales of Personal Information here:​
+​https://www.rubrik.com/legal/privacy-request, or via email to​​privacy@rubrik.com,​​or if this is related​​to​
+​Predibase you can contact​​privacy@predibase.com​​. These​​opt-out mechanisms apply across all Rubrik​
+​Online Services, including those offered through Predibase.​
+
+​Verification of identity; authorized agents​.​ We will​​need to verify your identity in order to process your​
+​information/know, access, correction, or deletion requests and reserve the right to confirm your​
+​residency. To verify your identity, we may require government identification, a declaration under penalty​
+​of perjury, or other information, where permitted by law.  ​
+
+​Your authorized agent may make a request on your behalf upon our verification of the agent’s identity​
+​and our receipt of a copy of a valid power of attorney given to your authorized agent pursuant to​
+​California Probate Code Sections 4000-4465.  If you have not provided your agent with such a power of​
+​attorney, you must provide your agent with written and signed permission to exercise your CPRA rights​
+​on your behalf, provide the information we request to verify your identity, and provide us with​
+​confirmation that you have given the authorized agent permission to submit the request. Regardless of​
+​which Rubrik entity (including Predibase) initially collected your data, all requests will be managed​
+​through Rubrik’s centralized privacy operations.​
+
+
+
+​Personal Information that we Collect, Use, and Disclose.​​We have summarized the Personal Information​
+​we collect by reference below to both categories defined in the “What personal information do we​
+​collect” section of this Policy above and the categories of Personal Information specified in the CPRA and​
+​describe our practices currently and during the 12 months preceding the effective date of this Privacy​
+​Policy.  Information you voluntarily provide to us, such as in free-form webforms, may contain other​
+​categories of Personal Information not described below.​
+
+​Personal​ ​CCPA statutory​ ​Source of PI​ ​Business/​ ​Categories of third​ ​Categories of​
+​Information​ ​category​ ​commercial​ ​parties to whom​ ​third parties to​
+
+​(“PI”) we​ ​purpose for PI​ ​we “disclose” PI​ ​whom we “sell”​
+​collect​ ​collection​ ​for a business​ ​or “share” PI​
+
+​purpose​
+
+​Contact and​ ​Identifiers​ ​You​ ​For the purposes​ ​Service providers​ ​Business and​
+​Request​ ​disclosed in “How​ ​marketing​
+
+​Information​ ​Commercial​ ​Third - party​ ​do we use your​ ​Rubrik-owned​ ​partners​
+​information​ ​sources​ ​personal​ ​business entities​
+
+​information?”​
+​California​ ​Automatic​ ​Third-party​
+​customer​ ​collection​ ​advertising​
+​records​ ​partners​
+
+​Internet or​ ​Business and​
+​network​ ​marketing partners​
+
+​information​
+​Business​
+
+​transferees​
+
+​Others as required​
+​by applicable law​
+
+​Professional​
+​advisors​
+
+​Courts and public​
+​authorities​
+
+
+
+​Account​ ​Identifiers​ ​You​ ​For the purposes​ ​Service providers​ ​Business and​
+​Information​ ​disclosed in “How​ ​marketing​
+
+​Commercial​ ​Automatic​ ​do we use your​ ​Rubrik-owned​ ​partners​
+​information​ ​collection​ ​personal​ ​business entities​
+
+​information?”​
+​Professional​ ​Third-party​
+
+​or employment​ ​advertising​
+
+​information​ ​partners​
+
+​California​ ​Business and​
+
+​customer​ ​marketing partners​
+
+​records​
+​Business​
+
+​Internet or​ ​transferees​
+
+​network​
+​information​ ​Others as required​
+
+​by applicable law​
+
+​Professional​
+​advisors​
+
+​Courts and public​
+​authorities​
+
+​Website​ ​Identifiers​ ​Automatic​ ​For the purposes​ ​Service providers​ ​Advertising​
+​information​ ​collection​ ​disclosed in “How​ ​partners (to​
+
+​and mobile​ ​Internet or​ ​do we use your​ ​Rubrik-owned​ ​facilitate online​
+
+​information​ ​network​ ​personal​ ​business entities​ ​advertising)​
+​information​ ​information?”​
+
+​Third-party​ ​Business and​
+​advertising​ ​marketing​
+
+​partners​ ​partners​
+
+​Business and​
+​marketing partners​
+
+​Business​
+​transferees​
+
+​Others as required​
+​by applicable law​
+
+​Professional​
+​advisors​
+
+​Courts and public​
+​authorities​
+
+
+
+​Audiovisual​ ​Sensory​ ​You​ ​For the purposes​ ​Service providers​ ​N/A​
+​information​ ​information​ ​disclosed in “How​
+
+​Automatic​ ​do we use your​ ​Rubrik-owned​
+​collection​ ​personal​ ​business entities​
+
+​information?”​
+​Others as required​
+​by applicable law​
+
+​Business​
+​transferees​
+
+​Professional​
+​advisors​
+
+​Courts and public​
+​authorities​
+
+​Marketing​ ​Identifiers​ ​You​ ​For the purposes​ ​Service providers​ ​Advertising​
+​information​ ​disclosed in “How​ ​partners (to​
+
+​Commercial​ ​Third -​ ​do we use your​ ​Rubrik-owned​ ​facilitate online​
+​information​ ​party sources​ ​personal​ ​business entities​ ​advertising)​
+
+​information?”​
+​California​ ​Automatic​ ​Third-party​ ​Business and​
+​customer​ ​collection​ ​advertising​ ​marketing​
+​records​ ​partners​ ​partners​
+
+​Internet or​ ​Business and​
+​network​ ​marketing partners​
+
+​information​
+​Business​
+
+​transferees​
+
+​Others as required​
+​by applicable law​
+
+​Professional​
+​advisors​
+
+​Courts and public​
+​authorities​
+
+
+
+​Data derived​ ​Inferences​ ​N/A​ ​To provide and​ ​Service providers​ ​Advertising​
+​from the above​ ​optimize our​ ​partners (to​
+
+​products and​ ​Rubrik-owned​ ​facilitate online​
+​services​ ​business entities​ ​advertising)​
+
+​To market and​ ​Third-party​ ​Business and​
+​advertise to you​ ​advertising​ ​marketing​
+
+​partners​ ​partners​
+​For compliance​
+​and protection​ ​Business and​
+
+​purposes as​ ​marketing partners​
+​described in this​
+
+​Privacy Policy​ ​Business​
+​transferees​
+
+​Others as required​
+​by applicable law​
+
+​Professional​
+​advisors​
+
+​Courts and public​
+​authorities​
+
+
+
+​California Privacy Rights Reporting​
+
+​Requests Submitted​ ​Requests Fulfilled in​ ​Average Days to​ ​Average Days to​
+​Whole Or In Part*​ ​Respond​ ​Complete a​
+
+​Request**​
+
+​Requests for access​ ​0​ ​-​ ​-​ ​-​
+​to Personal Data​
+
+​Requests to delete​ ​4​ ​4​ ​1​ ​10​
+​Personal Data​
+​Objections to​ ​7​ ​7​ ​1​ ​7​
+
+​processing Personal​
+​Data​
+
+​Requests to correct​ ​0​ ​-​ ​-​ ​-​
+​Personal Data​
+
+​*Requests may be unable to be completed due to factors like duplicate requests, the inability to verify the​
+​resident’s identity, or lack of response.​
+
+​**Time to complete a request may depend in part on receipt of information from the person making the​
+​request, such as information to verify the person’s identity or information about the action requested.​
+
+​Data is for all requests received by Rubrik Inc. Affiliates from California residents between January 1 and​
+​December 31, 2024.​
+
+
+
+​Supplemental European Privacy Statement​
+
+​The information provided in this Supplemental European Privacy Statement applies only to individuals in​
+​the European Economic Area, United Kingdom, and Switzerland (collectively, “Europe”). If you are based​
+​in Europe, this Supplemental European Privacy Statement applies to you in addition to the Privacy Policy​
+​above.​
+​References to “personal information” in this Privacy Policy should be understood to include references to​
+​“personal data” as defined by the “GDPR” (i.e., the General Data Protection Regulation 2016/679 (“EU​
+​GDPR”) and the EU GDPR as it forms part of UK law (“UK GDPR”)). Under the GDPR, personal data is​
+​information about an individual, from which that individual is either directly identified or can be​
+​identified.  It does not include ‘anonymous data’ (i.e., information where the identity of the relevant​
+​individual has been permanently removed and that individual is no longer identified or identifiable).​
+
+​Rubrik, Inc. is the controller in respect of the personal data covered by this Privacy Policy for the​
+​purposes of the GDPR. See ‘European Contacts’ for our contact details.​
+
+​Cookies. With respect to web cookies and other technologies that are not strictly necessary for our​
+​provision of the Online Services, Rubrik seeks consent from users of the Online Services in Europe based​
+​on a separate​​ Cookies Policy​​.​
+
+​Legal Basis of Processing.​
+
+​●​ ​In respect of each of the purposes for which we use your personal data, the GDPR requires us to​
+​ensure that we have a “legal basis” for that use. Our legal bases for processing your personal​
+​information described in this Privacy Policy are listed below.  Where we need to perform a​
+​contract, we are about to enter into or have entered into with you (“Contractual Necessity”).​
+
+​●​ ​Where it is necessary for our legitimate interests and your interests and fundamental rights do​
+​not override those interests (“Legitimate Interests”). More detail about the specific legitimate​
+​interests pursued in respect of each Purpose we use your personal information for is set out in​
+​the table below.​
+
+​●​ ​Where we need to comply with a legal or regulatory obligation (“Compliance with Law”).​
+
+​●​ ​Where we have your specific consent to carry out the processing for the Purpose in question​
+​(“Consent”).  ​
+
+​We have set out below, in a table format, the legal bases we rely on in respect of the relevant Purposes​
+​for which we use your personal information – for more information on these Purposes and the data​
+​types involved, see ‘How we use your personal information’.​
+
+​Purpose​ ​Categories of​ ​Legal basis​
+​personal​
+
+​information​
+​involved​
+
+​To respond to your​ ​Any and all data​ ​Legitimate Interests​
+​comments, questions and​ ​categories relevant​ ​We have a legitimate interest in offering you a good​
+
+​requests and/or improve or​ ​for the​
+
+
+
+​support internal​ ​circumstances​ ​service, including by communicating with you where you​
+​productivity and enhance​ ​(except sensitive​ ​have contacted us.​
+​the quality and efficiency​ ​data)​ ​We have a legitimate interest, as permitted under​
+
+​of our services​ ​applicable data protection laws, to use AI tools to support​
+​internal productivity, enhance operational efficiency, and​
+
+​improve the quality of our services. This processing is​
+​conducted in a manner that is proportionate, respects​
+
+​individuals’ rights and freedoms, and is subject to​
+​appropriate safeguards, especially where personal data is​
+
+​involved. Where required by law, we also ensure that​
+​additional legal bases or consent mechanisms are​
+
+​implemented to support such processing​
+
+​To manage your account​ ​Account​ ​Contractual Necessity​
+​Information​
+
+​To monitor the​ ​Website​ ​Consent where applicable by law; otherwise​
+​performance of our​ ​Information and​ ​Legitimate Interests​
+​websites and mobile​ ​Mobile Information​ ​We have a legitimate interest in ensuring the ongoing​
+
+​applications​ ​security and proper operation of our Online Services and​
+​associated IT services, systems, and networks​
+
+​To serve interest-based​ ​Website​ ​Consent where applicable by law; otherwise​
+​advertising​ ​Information and​ ​Legitimate Interests​
+
+​Mobile Information​ ​We have a legitimate interest in offering you a good​
+​service, including by allowing you to customize your​
+
+​experience with advertising relevant to your interests​
+
+​To personalize our Online​ ​Public Information​ ​Consent where applicable by law; otherwise​
+​Services​ ​Legitimate Interests​
+
+​We have a legitimate interest in offering you a good service​
+​which is personalized to you and that remembers your​
+
+​selections and preferences​
+
+​To host or manage any​ ​Audiovisual​ ​Legitimate Interests​
+​events that we may​ ​Information​ ​We have a legitimate interest in promoting the products​
+
+​sponsor or be a participant​ ​and services offered by our business​
+
+​To send you personalized​ ​Marketing​ ​Consent where applicable by law; otherwise​
+​direct marketing​ ​Information​ ​Legitimate Interests​
+
+​communications based on​ ​We have a legitimate interest in promoting the products​
+​your needs and interests​ ​and services offered by our business and sending​
+
+​marketing communications for that purpose​
+
+​To comply with our legal​ ​Any and all data​ ​Compliance with Law​
+​and contractual obligations​ ​types relevant in​ ​Legitimate Interests​
+
+​and protect our legal​ ​the circumstances​ ​Where Compliance with Law is not available, we have a​
+​interests​ ​legitimate interest in participating in, supporting, and​
+
+​following legal process and requests, including through​
+
+
+
+​cooperation with authorities. We and any relevant third​
+​parties may also have a legitimate interest of ensuring the​
+
+​protection, maintenance, and enforcement of our and​
+​their rights, property, and/or safety​
+
+​To create aggregated,​ ​Legitimate Interests​
+​de-identified and/or​ ​We have a legitimate interest in ensuring that our Online​
+
+​anonymized data​ ​Services and how we use your personal data are not​
+​intrusive, to the extent possible.​
+
+​Personal Data Transfers outside of Europe. ​​Rubrik​​transmits some of your personal data to countries​
+​where the data protection laws may not provide a level of protection equivalent to the laws in your​
+​jurisdiction. All transfers of your personal data from Europe to a country that has not been deemed to​
+​provide an adequate level of protection will be based upon an adequacy decision or governed by​
+​appropriate safeguards in accordance with the GDPR (e.g., the European Commission’s Standard​
+​Contractual Clauses or the UK’s International Data Transfer Agreement).  Any onward transfer is subject​
+​to appropriate onward transfer requirements as required by applicable law.​
+
+​Data Retention.​​ Rubrik keeps personal data as long​​as required to provide our Online Services to you and​
+​comply with applicable laws. For example, if you register for an account on the Online Services, we retain​
+​your personal data for as long as you have an account with us and then for only as long as required for us​
+​to comply with applicable laws, discharge our contractual obligations to you, or defend our legal​
+​interests in connection with any claim or defense we could face before any formal dispute resolution​
+​body. We take reasonable measures to ensure that personal data is deleted, erased or anonymized as​
+​soon as possible once the purposes for which personal data was collected have been fulfilled.​
+
+​Data Subject Rights. ​​European data protection laws​​give you certain rights regarding your personal data.​
+​If you are located in Europe, you may ask us to take the following actions in relation to your personal​
+​data that we hold:​
+
+​●​ ​Access​​. Provide you with information about our processing​​of your personal data and give you​
+​access to your personal data.​
+
+​●​ ​Correct​​. Update or correct inaccuracies in your personal​​data.​
+
+​●​ ​Delete​​. Delete your personal data where there is no​​good reason for us continuing to process it -​
+​you also have the right to ask us to delete or remove your personal data where you have​
+​exercised your right to object to processing (see below). ​
+
+​●​ ​Transfer​​. Transfer a machine-readable copy of your​​personal data to you or a third party of your​
+​choice.​
+
+​●​ ​Restrict​​. Restrict the processing of your personal​​data, for example if you want us to establish its​
+​accuracy or the reason for processing it.​
+
+​●​ ​Object​​. Object to our processing of your personal​​data where we are relying on Legitimate​
+​Interests – you also have the right to object where we are processing your personal data for​
+​direct marketing purposes.​
+
+​●​ ​Withdraw Consent​​. When we use your personal data based​​on your consent, you have the right​
+​to withdraw that consent at any time.  ​
+
+
+
+​You can exercise such rights by accessing the information in your account or by submitting a request​
+​via ​​https://www.rubrik.com/legal/privacy-request​​ or​​via email to privacy@rubrik.com. Please note that​
+​these rights may be subject to limitations and conditions under the GDPR or applicable national data​
+​protection laws.​
+
+​Your Right to Complain​​. In addition to your rights​​outlined above, if you are not satisfied with our​
+​response to a request you make, or how we process your personal data, you can make a complaint to the​
+​data protection regulator in your habitual place of residence. ​
+
+​●​ ​For users in the European Economic Area – the contact information for the data protection​
+​regulator in your place of residence can be found​
+​here: ​​https://edpb.europa.eu/about-edpb/board/members_en​
+
+​●​ ​For users in the UK – the contact information for the UK data protection regulator is below:​
+
+​The Information Commissioner’s Office​
+​Water Lane, Wycliffe House​
+​Wilmslow - Cheshire SK9 5AF​
+​Tel. +44 303 123 1113​
+​Website: ​​https://ico.org.uk/make-a-complaint/​
+
+​Your Choices​​. You are not required to provide any​​personal data to Rubrik, but if you do not provide any​
+​personal data to Rubrik, you may not be able to use our Online Services or conduct business with us​
+​effectively. You can use our Online Services without consenting to cookies that are not strictly necessary;​
+​the only consequence is that our Online Services will be less tailored to you.​
+
+​Profiling​​. Rubrik does not use in connection with​​our Online Services automated decision-making in a​
+​way that produces legal effects concerning you or which significantly affects you.​
+
+​Data Privacy Framework Participation​
+
+​Rubrik complies with the EU-U.S., UK Extension to EU-U.S., and Swiss-U.S. Data Privacy Framework​
+​Programs as set forth by the U.S. Department of Commerce regarding the collection, use and retention​
+​of personal information transferred from the European Union, United Kingdom, and Switzerland to the​
+​United States.  Rubrik has certified to the Department of Commerce that it adheres to the Data Privacy​
+​Framework Principles.  If there is any conflict between the terms in this privacy policy and the Data​
+​Privacy Framework Principles, the Data Privacy Framework Principles shall govern.  To learn more about​
+​the Data Privacy Framework program, please visit: ​​https://www.dataprivacyframework.gov/s/​​and to​
+​view our certification, please visit: https://www.dataprivacyframework.gov/list.  Additionally, Rubrik’s​
+​Data Privacy Framework Notice can be found: ​​HERE​
+
+​Rubrik’s privacy practices, described in this Privacy Policy, comply with the APEC Cross Border Privacy​
+​Rules System. The APEC CBPR system provides a framework for organizations to ensure protection of​
+​personal information transferred among participating APEC economies. More information about the​
+​APEC framework can be found here: ​​www.cbprs.org​
+
+
+
+​European Contacts​
+
+​If you have a privacy concern, complaint, a question for the data protection officer for your region, or a​
+​question or comments regarding this Supplemental European Privacy Statement, please contact us​
+​at: ​​privacy@rubrik.com​​; or via ​​webform​.​  You can also​​contact any of our affiliates directly at the​
+​following:​
+
+​Rubrik Cloud Data Management Limited​ ​Rubrik France SaS​ ​Rubrik The Netherlands B.V.​
+​Link Road (Ground Floor)​ ​C/O Citco France SARL​ ​Hoogoorddreef 54​
+​Carrigrohane Ballincollig Co.​ ​162 Boulevard Haussmann​ ​1101 BE Amsterdam​
+​Cork P31 D452​ ​75008 Paris, France​ ​The Netherlands​
+​Ireland​
+
+​Rubrik UK Limited​ ​Rubrik Germany GmbH​ ​Rubrik Switzerland GmbH​
+​14-20 Chiswell Street​ ​c/o Citco Deutschland GmbH​ ​Schiffbaustrasse 2​
+​London EC1Y 4TW​ ​Marienstraße 15, 60329 Frankfurt am​ ​8031 Zurich​
+​United Kingdom​ ​Main Germany​ ​Switzerland​
+
+​Rubrik Italy S.r.l.​ ​Rubrik Data Security, S.L.​
+​Viale Abruzzi 94​ ​Avenida. Concha Espina 39B​
+​20131 Milano (MI)​ ​28016 Madrid​
+​Italy​ ​España​

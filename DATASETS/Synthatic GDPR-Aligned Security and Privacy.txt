@@ -1,0 +1,117 @@
+GDPR-ALIGNED SECURITY AND PRIVACY POLICY (EXPANDED VERSION)
+
+1. INTRODUCTION
+
+Our organization is committed to protecting the personal data of individuals in accordance with the General Data Protection Regulation (GDPR). This Security and Privacy Policy describes the principles, legal bases, safeguards, and procedures we apply when processing personal data. It covers data protection principles, lawful processing, data subject rights, technical and organizational measures, processor management, and breach notification obligations.
+
+We process personal data only for specified and legitimate purposes, implement appropriate security controls, and maintain a governance framework that ensures accountability and continuous improvement. This policy applies to all employees, contractors, and third parties who process personal data on behalf of our organization.
+
+2. ARTICLE 5 – DATA PROTECTION PRINCIPLES
+
+We process personal data lawfully, fairly, and in a transparent manner in relation to data subjects. Individuals are informed about our identity, the purposes of processing, and their rights through clear and easily accessible privacy notices.
+
+Personal data is collected for specified, explicit, and legitimate purposes and is not further processed in a way that is incompatible with those purposes. If additional purposes arise, we assess compatibility and update notices where required.
+
+We apply the principle of data minimization by ensuring that the personal data we collect is adequate, relevant, and limited to what is necessary in relation to the purposes for which it is processed. We regularly review data collection forms and business processes to remove unnecessary data fields.
+
+We strive to keep personal data accurate and up to date. Data that is inaccurate with respect to the purposes for which it is processed is rectified or erased without undue delay based on user requests, internal checks, or system validations.
+
+We respect storage limitation by defining retention periods for each category of personal data. Data is retained only for as long as necessary for the stated purposes or as required by applicable law and is securely deleted or anonymized when no longer needed.
+
+We ensure integrity and confidentiality by implementing appropriate technical and organizational measures that protect personal data against unauthorized or unlawful processing and against accidental loss, destruction, or damage.
+
+Finally, we uphold the accountability principle by documenting our processing activities, maintaining records of decisions and risk assessments, and being able to demonstrate compliance to supervisory authorities upon request.
+
+3. ARTICLE 6 – LAWFULNESS OF PROCESSING
+
+We process personal data only where at least one lawful basis under GDPR applies. Common legal bases include consent, performance of a contract, compliance with a legal obligation, protection of vital interests, performance of a task in the public interest, and legitimate interests pursued by our organization or a third party.
+
+When we rely on consent, we ensure that it is freely given, specific, informed, and unambiguous. Consent is obtained through clear affirmative action and is documented in our systems. Data subjects may withdraw their consent at any time, and we provide simple mechanisms to do so.
+
+Where processing is necessary for the performance of a contract, such as delivering services or fulfilling orders, we identify that contractual necessity in our privacy notices and limit the processing to what is required to perform the contract.
+
+When processing is based on a legal obligation, we identify the relevant legislation and ensure that the processing activities do not exceed what is mandated. Examples include financial record-keeping and responding to law enforcement requests.
+
+For processing based on legitimate interests, we perform and document a Legitimate Interests Assessment (LIA) that balances our interests against the rights and freedoms of data subjects. We implement additional safeguards where necessary to reduce risks to individuals.
+
+4. ARTICLES 12–22 – DATA SUBJECT RIGHTS
+
+We respect and operationalize all GDPR data subject rights, including the right to information, access, rectification, erasure, restriction of processing, data portability, and objection.
+
+Data subjects have the right to receive transparent information about our processing activities through privacy notices and responses to inquiries. We provide information in concise, intelligible, and easily accessible form, using clear and plain language.
+
+Individuals may request access to the personal data we hold about them. We have procedures in place to verify identity, locate data across our systems, and respond within the statutory timeframes, normally one month.
+
+If personal data is inaccurate or incomplete, data subjects may request rectification. We update the data in our systems and, where feasible, inform relevant recipients of the corrections.
+
+Data subjects may request erasure of their personal data in situations defined by GDPR, such as where processing is no longer necessary or consent has been withdrawn. We evaluate each request and, if valid, delete or anonymize the data, subject to legal retention requirements.
+
+We support the right to restrict processing where accuracy is contested, processing is unlawful, or data is no longer needed but must be retained for legal claims. In such cases, data is marked as restricted and is not processed further except for limited purposes.
+
+We enable the right to data portability for processing based on consent or contract and carried out by automated means. Where applicable, we provide personal data in a structured, commonly used, and machine-readable format or transmit it directly to another controller at the request of the data subject.
+
+Data subjects may object to processing based on legitimate interests or for direct marketing purposes. We cease processing unless we can demonstrate compelling legitimate grounds that override the interests, rights, and freedoms of the individual or the processing is required for legal claims.
+
+We also address rights related to automated decision-making, including profiling, by ensuring appropriate safeguards, meaningful information about the logic involved, and mechanisms for human intervention where required.
+
+5. ARTICLE 25 – DATA PROTECTION BY DESIGN AND BY DEFAULT
+
+We integrate data protection considerations into the design and operation of our systems, services, and business processes from the earliest stages of development. Privacy and security requirements are documented and reviewed during project initiation and architecture design.
+
+By default, we configure systems so that only necessary personal data is processed for each specific purpose. Access to personal data is limited to authorized personnel who require it to perform their duties.
+
+We apply techniques such as pseudonymisation, minimization of identifiers, and separation of roles to reduce privacy risks. Wherever possible, we prefer processing aggregated or anonymized data instead of identifiable personal data.
+
+New projects and significant changes to existing processing activities undergo risk assessments and, where appropriate, Data Protection Impact Assessments (DPIAs). DPIAs identify risks to the rights and freedoms of individuals and define mitigating controls.
+
+Documentation of design decisions, DPIA outcomes, and implemented safeguards is maintained to demonstrate our application of data protection by design and by default.
+
+6. ARTICLE 28 – PROCESSORS AND THIRD PARTIES
+
+When we engage processors or other third parties to process personal data on our behalf, we do so only with organizations that provide sufficient guarantees of implementing appropriate technical and organizational measures.
+
+We enter into written data processing agreements that define the subject matter, duration, nature, and purposes of processing, as well as the types of personal data and categories of data subjects. These agreements include obligations related to confidentiality, security, sub-processing, assistance with data subject rights, and incident reporting.
+
+Processors are not permitted to engage sub-processors without our prior written authorization. Where sub-processors are used, we ensure that equivalent data protection obligations are imposed contractually.
+
+We perform due diligence and, where appropriate, periodic reviews or audits of processors to verify compliance with contractual and regulatory requirements.
+
+Cross-border transfers of personal data are carried out only in accordance with applicable GDPR provisions, such as adequacy decisions, standard contractual clauses, or other valid transfer mechanisms.
+
+7. ARTICLE 32 – SECURITY OF PROCESSING
+
+We implement appropriate technical and organizational measures to ensure a level of security appropriate to the risks associated with our processing activities. These measures take into account the state of the art, implementation costs, the nature, scope, context, and purposes of processing, as well as the likelihood and severity of potential impacts on data subjects.
+
+Our security controls include, where appropriate, encryption of data at rest and in transit, pseudonymisation of personal data, and robust access control mechanisms. We enforce strong authentication, role-based access control, and need-to-know principles.
+
+We maintain procedures to ensure the ongoing confidentiality, integrity, availability, and resilience of processing systems and services. This includes regular backups, disaster recovery plans, and business continuity arrangements.
+
+We conduct periodic security testing, vulnerability assessments, and, where appropriate, penetration testing to identify and remediate weaknesses in our systems.
+
+Employees receive regular training on information security, data protection principles, and incident reporting procedures. Access to systems processing personal data is logged and monitored for suspicious activity.
+
+8. ARTICLES 33–34 – PERSONAL DATA BREACH NOTIFICATION
+
+We maintain an incident response and breach management process to identify, assess, and respond to personal data breaches. All employees are required to report suspected incidents without delay through defined channels.
+
+Upon becoming aware of a personal data breach, we promptly evaluate whether the breach is likely to result in a risk or high risk to the rights and freedoms of natural persons. This assessment considers factors such as the nature of the data, the volume of records, and the potential consequences for individuals.
+
+Where required by GDPR, we notify the competent supervisory authority without undue delay and, where feasible, within 72 hours after becoming aware of the breach. Notifications include the nature of the breach, categories and approximate number of data subjects and records concerned, likely consequences, and the measures taken or proposed to address the breach.
+
+When a breach is likely to result in a high risk to individuals, we communicate the breach to affected data subjects without undue delay, using clear and plain language. Communications describe the nature of the breach, potential consequences, and recommended steps data subjects can take to protect themselves.
+
+We document all personal data breaches, including facts related to the breach, its effects, and remedial actions taken, in order to demonstrate compliance.
+
+9. GOVERNANCE, TRAINING, AND REVIEW
+
+We maintain a data protection governance framework that defines roles and responsibilities for managing privacy and security. Where required, a Data Protection Officer (DPO) or equivalent role is appointed and resourced to oversee compliance activities.
+
+Employees and contractors receive training on GDPR, this policy, and related procedures during onboarding and at regular intervals thereafter. Specialized training is provided for staff working in high-risk areas such as security operations, development, and customer support.
+
+We review and update this Security and Privacy Policy periodically, and whenever there are significant changes to applicable regulations, business practices, or technologies. Policy updates are communicated internally and, where relevant, reflected in our external privacy notices.
+
+10. CONTACT AND EXERCISE OF RIGHTS
+
+Data subjects may contact us using the details provided in our privacy notices to exercise their rights or raise questions about this policy. Requests are handled in accordance with internal procedures and applicable legal obligations.
+
+We are committed to cooperating with supervisory authorities and to addressing any complaints or inquiries regarding the processing of personal data in a timely and constructive manner.
